@@ -1,0 +1,1 @@
+define(["lmd/ui/image/lazy-retina"],function(lazy_retina){var hdCallback=function(src){var pattern=new RegExp("("+lmd.conf.medias.location.hostname.replace(/s1/,"(s1|s2)")+")/image/(.*)"),srcParts=src.match(pattern);if(srcParts)src="http://"+srcParts[1]+"/image2x/"+srcParts[3];return src};lazy_retina.config.hdCallback=hdCallback;lazy_retina.config.offset=750;return lazy_retina});

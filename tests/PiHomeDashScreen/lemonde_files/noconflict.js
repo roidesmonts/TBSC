@@ -1,0 +1,1 @@
+var jqyreu=jqyreu||{v:window.getElementsByClassName?"jquery":"jquery.fallback",j:window.$||window.jQuery};define([jqyreu.v],function($){var localjQuery=$.noConflict(true);window.$=window.jQuery=jqyreu.j;return localjQuery});

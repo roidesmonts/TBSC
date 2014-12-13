@@ -1,0 +1,4 @@
+document.write();;document.write('<scr'+'ipt type="text/javascript"><!--\r\n'+'google_ad_client = "ca-pub-1344519122051546";\r\n'+'/* le monde.fr - bannière site mobile - */\r\n'+'google_ad_slot = "1142815298";\r\n'+'google_ad_width = 320;\r\n'+'google_ad_height = 50;\r\n'+'//-->\r\n'+'</scr'+'ipt>\r\n'+'<scr'+'ipt type="text/javascript"\r\n'+'src="http://pagead2.googlesyndication.com/pagead/show_ads.js">\r\n'+'</scr'+'ipt>\r\n');document.write('\r\n');
+
+
+
